@@ -5,7 +5,7 @@ reporting under **IFRS** in **USD**. It takes four trial balances in four
 currencies and produces a tied set of consolidated statements — reproducing the
 accompanying Excel workbook to the penny.
 
-**Live demo:** https://consolidation-dashboard-red.vercel.app/
+**[View live demo »](https://consolidation-dashboard-red.vercel.app/)**
 
 ![Consolidated result](docs/screenshot-consolidated.png)
 

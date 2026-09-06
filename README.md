@@ -5,7 +5,7 @@ reporting under **IFRS** in **USD**. It takes four trial balances in four
 currencies and produces a tied set of consolidated statements — reproducing the
 accompanying Excel workbook to the penny.
 
-**Live demo:** _(add your Vercel URL here once deployed)_
+**Live demo:** https://consolidation-dashboard-red.vercel.app/
 
 ![Consolidated result](docs/screenshot-consolidated.png)
 
@@ -76,3 +76,7 @@ step.
 React + Vite. The consolidation engine is plain JavaScript, verified against the
 Excel workbook (net income 158,182.50; total assets 1,296,946.21; NCI 20,481.93;
 balance check 0).
+
+---
+
+Vaanmathi, CA, CPA
